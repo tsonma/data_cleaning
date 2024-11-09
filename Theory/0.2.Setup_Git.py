@@ -15,5 +15,14 @@
 # How to commit the changes
 # git commit -m 'first working file of project. You can add any relevant description'
 
-# How to publish to GitHub
-# git remote add origin https://github.com/use_name/data_cleaning_maven_analytics.git
+# How to publish to GitHub for the first time
+# git remote add origin https://github.com/user_name/data_cleaning_maven.git
+
+#How to pull data from GitHub
+# git pull origin main
+
+# How to republish to GitHub
+# git push origin main
+
+# How to remove origin if you have errors
+# git remote remove origin
