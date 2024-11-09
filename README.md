@@ -9,9 +9,9 @@ Assignment
 -You've been asked to prepare and explore a set of customer data that will be used for two machine learning projects: churn prediction & customer segmentation
 
 1. Join & QA the data
-2. Clean the data
-3. Explore feature relationships with customer churn
-4. Prepare the data for modeling
+3. Clean the data
+4. Explore feature relationships with customer churn
+5. Prepare the data for modeling
 
 Data Set
 
